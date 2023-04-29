@@ -6,5 +6,7 @@ public class AtmProjectJava {
         //version2
         System.out.println("wdmdd");
         //version3
+        System.out.println("git kolay");
+        //version4
     }
 }
