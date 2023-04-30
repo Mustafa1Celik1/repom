@@ -9,6 +9,8 @@ public class AtmProjectJava {
         System.out.println("git kolay");
         //version4
         System.out.println("kjoıfjf");
-        ///mustafa1
+        //mustafa1
+        System.out.println("ben bir dahiyim");
+        //mustafa2
     }
 }
