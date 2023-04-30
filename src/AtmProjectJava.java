@@ -12,5 +12,6 @@ public class AtmProjectJava {
         //mustafa1
         System.out.println("ben bir dahiyim");
         //mustafa2
+        //senden gelen
     }
 }
