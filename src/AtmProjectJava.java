@@ -10,7 +10,7 @@ public class AtmProjectJava {
         //version4
         System.out.println("kjoıfjf");
         //mustafa1
-        System.out.println("ben bir dahiyim");
+   
         //mustafa2
         //senden gelen
     }
